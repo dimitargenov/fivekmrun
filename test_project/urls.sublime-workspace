@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dom",
+				"domPark"
+			],
+			[
+				"res",
+				"resultUrl"
+			],
+			[
+				"td",
+				"td_20"
+			],
+			[
+				"Runn",
+				"RunnerId"
+			],
+			[
+				"run",
+				"runnerId"
+			],
+			[
+				"runn",
+				"runnerExists"
+			],
+			[
+				"ageP",
+				"agePercent"
+			],
+			[
+				"sex",
+				"SexPosition"
+			],
+			[
+				"runner",
+				"runnerId"
+			],
+			[
+				"event",
+				"eventId"
+			],
+			[
+				"rac",
+				"raceDate"
+			],
+			[
+				"domp",
+				"DomParkId"
+			],
+			[
+				"race",
+				"raceData"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"is",
+				"isVowel"
+			],
+			[
+				"number",
+				"numberOne"
+			],
+			[
+				"numb",
+				"numberTwo"
+			],
+			[
+				"show",
+				"show_table"
+			],
+			[
+				"foo",
+				"food_check"
+			],
+			[
+				"ch",
+				"change_direction"
+			],
+			[
+				"N",
+				"NB_ENABLE"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"chan",
+				"change_y"
+			],
+			[
+				"food",
+				"food_y"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"coord",
+				"coordinates_y"
+			],
+			[
+				"f",
+				"food_x"
+			],
+			[
+				"clae",
+				"clear_snake_on_table"
+			],
+			[
+				"coo",
+				"coordinates_x"
+			],
+			[
+				"coor",
+				"coordinates_x"
+			],
+			[
+				"change",
+				"change_x"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mitko/projects/snake_game/snake1.cpp",
+		"/var/www/html/python/5kmrunParser/MainConfig.py",
+		"/var/www/html/python/imageFilter/gradient.py",
+		"/var/www/html/python/imageFilter/main.py",
+		"/var/www/html/python/5kmrunParser/Database.py",
+		"/var/www/html/jhipster/blog/pom.xml",
+		"/home/mitko/Downloads/activity_2056943576.tcx",
+		"/home/mitko/Downloads/activity_1590352963.tcx",
+		"/var/www/html/c_plus/algorythms/insertion_sort.c",
+		"/home/mitko/projects/hello/vowelCheck.cpp",
+		"/home/mitko/Downloads/activity_2381933374.tcx",
+		"/var/www/html/python/snake.py",
+		"/home/mitko/projects/snake_game/snake.cpp",
+		"/home/mitko/projects/c-examples/listings/76a.c",
+		"/home/mitko/projects/c-examples/listings/70.c",
+		"/home/mitko/projects/c-examples/listings/9.c",
+		"/home/mitko/projects/c-examples/listings/76.c",
+		"/home/mitko/projects/hello/hello.cpp",
+		"/home/mitko/projects/hello/sum.c",
+		"/home/mitko/projects/hello/swap.c",
+		"/home/mitko/projects/snake.cpp",
+		"/home/mitko/garmintest/1.gpx",
+		"/home/mitko/garmintest/test.xml",
+		"/home/mitko/garmintest/1.xml",
+		"/home/mitko/garmintest/activity_1575819765 (copy 1).tcx",
+		"/var/www/angular-2-playlist/assets/styles.css",
+		"/var/www/html/game/styles.css",
+		"/home/mitko/Desktop/to install",
+		"/var/www/html/game/index.php",
+		"/var/www/html/game/js.js",
+		"/media/mitko/GARMIN1/GARMIN/ACTIVITY/79GK0500.FIT",
+		"/home/mitko/files_random/stih",
+		"/home/mitko/Downloads/Iron Maiden - Afraid To Shoot Strangers (guitar pro).gp4",
+		"/home/mitko/Downloads/tabs/Paul Gilbert - Technical Difficulties (guitar pro).gp5",
+		"/home/mitko/Downloads/Paul Gilbert - Technical Difficulties (guitar pro).gp5",
+		"/home/mitko/Downloads/Johann Sebastian Bach - Badinerie (guitar pro).gp5",
+		"/home/mitko/Downloads/Rob Scallon - Bach Meets Metal Badinerie (guitar pro).gpx",
+		"/home/mitko/Downloads/Rob Scallon - Bach Meets Metal Badinerie (guitar pro) (2).gpx",
+		"/home/mitko/Downloads/activity_893761799.tcx",
+		"/home/mitko/Downloads/activity_1213438273.tcx",
+		"/home/mitko/Downloads/activity_1213438273.gpx",
+		"/home/mitko/garmintest/2017-02-16-07-15-51 (copy 1).fit"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extractRaceData",
+			"dompark",
+			"process",
+			"int",
+			"*",
+			".*",
+			"(.",
+			"getHtmlContent",
+			"insertRaceInDb",
+			"slice",
+			"2017-12-16T",
+			"2017-12-16T07",
+			"2017",
+			"2017-02-25T08",
+			"2017-10-07T06",
+			"global",
+			"increase_speed",
+			"incre",
+			"show_ta",
+			"show_table",
+			"next_step",
+			"increase_speed",
+			"snake_size",
+			"cls",
+			"show_ta",
+			"lap",
+			"2015",
+			"2015-09-10",
+			"Extensions",
+			"lap",
+			"trkseg",
+			"lap",
+			"StartTime"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2018-01-06T",
+			"2018-01-06T08",
+			"2018-01-06T07",
+			"2017-01-30"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "urls.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
